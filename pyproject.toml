@@ -1,0 +1,7 @@
+[project]
+name = "pixiv-bookmark-downloader"
+version = "1.0.0"
+requires-python = ">=3.11"
+dependencies = [
+    "gallery-dl>=1.31.1",
+]
